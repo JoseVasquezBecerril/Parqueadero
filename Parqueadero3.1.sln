@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parqueadero.Core", "Parquea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parqueadero.Infrastructure", "Parqueadero.Infrastructure\Parqueadero.Infrastructure.csproj", "{7D9DDC5A-49B5-4299-94C4-30A45CD40775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parqueadero.Core.Tests", "Parqueadero.Core.Tests\Parqueadero.Core.Tests.csproj", "{0F732505-D83F-46E4-997F-B866B852114A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7D9DDC5A-49B5-4299-94C4-30A45CD40775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D9DDC5A-49B5-4299-94C4-30A45CD40775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D9DDC5A-49B5-4299-94C4-30A45CD40775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F732505-D83F-46E4-997F-B866B852114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F732505-D83F-46E4-997F-B866B852114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F732505-D83F-46E4-997F-B866B852114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F732505-D83F-46E4-997F-B866B852114A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
